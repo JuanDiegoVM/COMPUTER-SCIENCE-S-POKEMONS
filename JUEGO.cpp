@@ -54,4 +54,4 @@ int main(){
 	attack(p2,p1);
 	cout<<"Your Pokemon's health now is: " <<p1.health<<endl;
 	return 0;
-}
+}//hola
